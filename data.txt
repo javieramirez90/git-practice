@@ -1,3 +1,4 @@
 Name: Javier
 Age: 27
 Favorite color: blue
+New line
